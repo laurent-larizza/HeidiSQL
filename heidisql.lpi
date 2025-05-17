@@ -66,6 +66,7 @@
       <Unit>
         <Filename Value="heidisql.lpr"/>
         <IsPartOfProject Value="True"/>
+        <IsMainUnit Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="source\main.pas"/>
